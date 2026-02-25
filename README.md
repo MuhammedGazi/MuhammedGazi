@@ -47,7 +47,6 @@ Backend geliştirme alanında **.NET** teknolojileri üzerine yoğunlaşmış, m
 
 ## 📊 GitHub Stats
 
-![MuhammedGazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammedGazi&show_icons=true&theme=radical&hide_border=true)
 
 <br>
 
