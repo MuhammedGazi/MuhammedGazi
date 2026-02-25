@@ -1,4 +1,4 @@
-#                                                                          👋 Hello World, I'm Muhammed Çelenk!
+# <h1 align="center">👋 Hello World, I'm Muhammed Çelenk!</h1>
 
 ### *Computer Engineer | Backend & Full Stack Developer*
 
